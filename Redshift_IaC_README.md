@@ -1,7 +1,4 @@
 # Redhsift IaC (Infrastructure as Code) Utility
-
-Link to Code: [Redshift_IaC_Utility](https://github.com/san089/Udacity-Data-Engineering-Projects/blob/master/Redshift_Cluster_IaC.py)
-
 This utility automates the Infrastructure deployement and configuration for Redshift cluster along with the pre-requisites to spin up the cluster. 
 
 The code performs 3 setups:
